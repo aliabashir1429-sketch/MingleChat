@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "45833547771",
+    "project_id": "minglechat-3add0",
+    "storage_bucket": "minglechat-3add0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45833547771:android:8dc00c11d07f20ca7be55e",
+        "android_client_info": {
+          "package_name": "com.minglechat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWTVRTnmM4xqdwd0Zh8cUmWfWaBC0v-QQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
